@@ -7,7 +7,7 @@ Test the performance of various CSS selectors !
   <li>open fat.html in browser</li>
   <li>search for desired stylesheet filename (without file ext) in the input and press 'enter'</li>
   <li>you will be alerted with the selector performance.</li>
-
+</ul>
 <b>Note:</b>
 a.css has been provided as an example. search for "a" in the input and press enter to see the performance of an nth-of-type selector.
 
