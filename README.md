@@ -8,10 +8,11 @@ Test the performance of various CSS selectors !
   <li>search for desired stylesheet filename (without file ext) in the input and press 'enter'</li>
   <li>you will be alerted with the selector performance.</li>
 </ul>
-<b>Note:</b>
+
+<b>Note:</b><br><br>
 a.css has been provided as an example. search for "a" in the input and press enter to see the performance of an nth-of-type selector.
 
-<b>What is this?</b>
+<b>What is this?</b><br><br>
 I am using the native browser performance.timing API to get the time difference between page load and response end. During that time, the CSS selectors get applied.
 
 Credit for this idea goes to Ben Frain and 
